@@ -1,0 +1,24 @@
+{
+  "name": "javascript-cookbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run storybook",
+    "storybook": "start-storybook -p 6006",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-storybook": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@storybook/html": "^5.2.4",
+    "@storybook/mithril": "^5.2.4",
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "cssnano": "^4.1.10",
+    "mithril": "^2.0.4"
+  }
+}
