@@ -13,8 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
-    "@storybook/html": "^5.2.4",
-    "@storybook/mithril": "^5.2.4",
+    "@storybook/html": "^6.5.13",
+    "@storybook/mithril": "^6.2.9",
     "babel-loader": "^8.0.6"
   },
   "dependencies": {
